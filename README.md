@@ -1,0 +1,1 @@
+# use-swc-with-firebase-functions
