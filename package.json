@@ -1,7 +1,9 @@
 {
   "name": "use-swc-with-firebase-functions",
   "version": "1.0.0",
-  "devDependencies": {},
+  "devDependencies": {
+    "firebase-tools": "^10.4.2"
+  },
   "scripts": {},
   "private": true
 }
