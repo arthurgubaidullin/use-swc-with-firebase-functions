@@ -4,6 +4,8 @@
   "devDependencies": {
     "firebase-tools": "^10.4.2"
   },
-  "scripts": {},
+  "scripts": {
+    "emulators:start": "firebase emulators:start"
+  },
   "private": true
 }
