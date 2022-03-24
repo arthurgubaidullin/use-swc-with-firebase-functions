@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "default": "demo-use-swc-with-firebase-functions"
+  }
+}
