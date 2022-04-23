@@ -1,1 +1,1 @@
-# use-swc-with-firebase-functions
+Этот проект создан в качестве примера к [статье](ARTICLE.md).
