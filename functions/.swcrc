@@ -61,6 +61,7 @@
     "noInterop": true
   },
   "minify": false,
+  "sourceMaps": true,
   "env": {
     "targets": "node 16"
   }
