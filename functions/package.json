@@ -16,16 +16,16 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "firebase-admin": "^10.0.2",
-    "firebase-functions": "^3.18.0"
+    "firebase-admin": "^10.1.0",
+    "firebase-functions": "^3.20.1"
   },
   "devDependencies": {
-    "@swc/cli": "^0.1.56",
-    "@swc/core": "^1.2.160",
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.171",
     "chokidar": "^3.5.3",
-    "eslint": "^8.9.0",
+    "eslint": "^8.14.0",
     "eslint-config-google": "^0.14.0",
-    "firebase-functions-test": "^0.2.0"
+    "firebase-functions-test": "^0.3.3"
   },
   "private": true
 }
