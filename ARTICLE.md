@@ -178,4 +178,4 @@ _Playground_ добавляет в конфигурационный файл о�
 
 ### Лицензия
 
-Лицензированно под [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+Лицензировано под [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
