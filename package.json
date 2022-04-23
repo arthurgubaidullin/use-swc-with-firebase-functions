@@ -2,7 +2,7 @@
   "name": "use-swc-with-firebase-functions",
   "version": "1.0.0",
   "devDependencies": {
-    "firebase-tools": "^10.4.2"
+    "firebase-tools": "^10.7.1"
   },
   "scripts": {
     "emulators:start": "firebase emulators:start"
