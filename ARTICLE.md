@@ -174,6 +174,11 @@ _Playground_ добавляет в конфигурационный файл о�
 
 Эта проблема решается генерацией **source maps** и подключения модуля [source-map-support](https://github.com/evanw/node-source-map-support).
 
+### Полезные ссылки
+
+1. [Use TypeScript for Cloud Functions](https://firebase.google.com/docs/functions/typescript) (Firebase Documentation)
+1. [Tips & tricks](https://firebase.google.com/docs/functions/tips) (Firebase Documentation)
+
 ### Финал
 
 Поздравляю! Теперь ваш проект компилируемый и вы сделали небольшой шаг в его оптимизации.
