@@ -2,7 +2,8 @@
   "name": "use-swc-with-firebase-functions",
   "version": "1.0.0",
   "devDependencies": {
-    "firebase-tools": "^10.7.1"
+    "firebase-tools": "^10.7.1",
+    "prettier-plugin-jsdoc": "^0.3.38"
   },
   "scripts": {
     "emulators:start": "firebase emulators:start"
