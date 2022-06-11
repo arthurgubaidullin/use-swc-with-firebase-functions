@@ -50,7 +50,14 @@
         "unsafe_undefined": false,
         "unused": true
       },
-      "mangle": false
+      "mangle": {
+        "toplevel": false,
+        "keep_classnames": false,
+        "keep_fnames": false,
+        "keep_private_props": false,
+        "ie8": false,
+        "safari10": false
+      }
     }
   },
   "module": {
@@ -60,7 +67,7 @@
     "strictMode": true,
     "noInterop": true
   },
-  "minify": false,
+  "minify": true,
   "sourceMaps": true,
   "env": {
     "targets": "node 16"
