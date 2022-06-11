@@ -2,6 +2,8 @@
 
 В этой статье рассмотрим использование компилятора для js-кода облачных функций.
 
+![alt text](https://github.com/arthurgubaidullin/using-swc-with-firebase-functions/blob/main/assets/cover.png?raw=true)
+
 ## Проблема
 
 Создаем проект. Добавляем Firebase функцию.
