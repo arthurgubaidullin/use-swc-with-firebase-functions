@@ -225,7 +225,7 @@ _Playground_ добавляет в конфигурационный файл о�
 
 ### Пример проекта
 
-[Пример](https://github.com/arthurgubaidullin/use-swc-with-firebase-functions) уже настроенного Firebase проекта можно посмотреть на GitHub.
+[Пример](https://github.com/arthurgubaidullin/using-swc-with-firebase-functions) уже настроенного Firebase проекта можно посмотреть на GitHub.
 
 ### Подводные камни
 
